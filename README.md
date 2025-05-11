@@ -16,3 +16,7 @@ The required Python packages are listed in `requirements.txt`. Install them loca
 ```bash
 pip install -r requirements.txt
 ```
+## ▶️ Run Locally
+```bash
+streamlit run app.py
+```
