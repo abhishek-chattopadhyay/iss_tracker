@@ -1,4 +1,4 @@
-# 🛰️ ISS Tracker - Live Map
+# 🛰️ Real-time ISS Tracker
 
 This is a simple Streamlit app that tracks the **International Space Station (ISS)** in real-time and displays its trajectory on an interactive map using Folium.
 
